@@ -3,12 +3,17 @@
  "rate": "-25%",
  "conferidas": [
   {
+   "palavra": "amor",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
    "palavra": "bebida",
    "caminho": "corrida",
    "pedacos": 3
   },
   {
-   "palavra": "amor",
+   "palavra": "bola",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -18,7 +23,7 @@
    "pedacos": 4
   },
   {
-   "palavra": "bola",
+   "palavra": "borda",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -28,27 +33,12 @@
    "pedacos": 2
   },
   {
-   "palavra": "campo",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "borda",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
    "palavra": "bomba",
    "caminho": "corrida",
    "pedacos": 2
   },
   {
-   "palavra": "dia",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "hora",
+   "palavra": "campo",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -58,12 +48,17 @@
    "pedacos": 2
   },
   {
+   "palavra": "dia",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
    "palavra": "homem",
    "caminho": "corrida",
    "pedacos": 2
   },
   {
-   "palavra": "jardim",
+   "palavra": "hora",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -71,11 +66,6 @@
    "palavra": "meia",
    "caminho": "corrida",
    "pedacos": 2
-  },
-  {
-   "palavra": "menino",
-   "caminho": "corrida",
-   "pedacos": 3
   },
   {
    "palavra": "medo",
@@ -88,17 +78,22 @@
    "pedacos": 2
   },
   {
+   "palavra": "jardim",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "menino",
+   "caminho": "corrida",
+   "pedacos": 3
+  },
+  {
+   "palavra": "prego",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
    "palavra": "pato",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "tambor",
-   "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "sente",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -108,17 +103,27 @@
    "pedacos": 3
   },
   {
+   "palavra": "tambor",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
    "palavra": "também",
    "caminho": "corrida",
    "pedacos": 2
   },
   {
-   "palavra": "tapa",
+   "palavra": "tampa",
    "caminho": "corrida",
    "pedacos": 2
   },
   {
-   "palavra": "tampa",
+   "palavra": "sente",
+   "caminho": "corrida",
+   "pedacos": 2
+  },
+  {
+   "palavra": "tapa",
    "caminho": "corrida",
    "pedacos": 2
   },
@@ -130,11 +135,6 @@
   {
    "palavra": "vida",
    "caminho": "corrida",
-   "pedacos": 2
-  },
-  {
-   "palavra": "prego",
-   "caminho": "espaco",
    "pedacos": 2
   }
  ],
